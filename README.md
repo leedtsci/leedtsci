@@ -22,7 +22,11 @@ Possuo conhecimento como Normativo de Gestão Eletrônica de Documentos de Engen
 </a>&nbsp;
 
 #### Aqui, alguns Conteúdos criados por mim:
-  </a>
+</a>
+- <a href="https://github.com/leedtsci/leedtsci/blob/main/Chatbot_portfolio.ipynb">
+    Projeto Chatbot simples
+  </a> <br>
+</a>
 - <a href="https://trinket.io/python3/21b4f7ff25">
-    Operações entre matrizes simples com numpy e sympy(nsimplify) Python:
-  </a>
+    Operações entre matrizes simples com numpy e sympy(nsimplify) Python
+  </a> <br>
