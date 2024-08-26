@@ -2,7 +2,7 @@
 
 Seja muito bem-vindo ao meu perfil no GitHub.
 
-Possuo conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenharia no ramo de mineração. Possuo experiência no setores de supervisão de vendas e logísitica. **Sou estudante no Curso Superior de Tecnologia de Ciência de Dados da Faculdade Pitágoras**. Curioso sobre análise de dados e programação em linguagens Python, R e SQL.
+Tenho conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenharia no ramo de mineração. Possuo experiência no setores de supervisão de vendas e logísitica. **Sou estudante no Curso Superior de Tecnologia de Ciência de Dados da Faculdade Pitágoras**. Curioso sobre análise de dados e programação em linguagens Python, R e SQL.
 
 - 🧑🏾‍💼 Trabalho com Planejamento de Gestão de Documentos de Engenharia
 - 🥋🎶🎸 Apaixonado por **Aikido**, **Música** e **Guitarra**
