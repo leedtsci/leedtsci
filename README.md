@@ -17,7 +17,7 @@ Tenho conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenh
 ##
 
 ### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/leandro-de-souza-0034b5265/">
+&nbsp;<a href="https://www.linkedin.com/in/leandro-de-souza-reis-silva-0034b5265/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 
