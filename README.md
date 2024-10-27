@@ -23,6 +23,11 @@ Tenho conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenh
 
 #### Aqui, alguns Conteúdos criados por mim:
 </a>
+- <a href="https://github.com/leedtsci/leedtsci/blob/main/Portfolio_MachineLearning_I.ipynb">
+    Projeto Machine Learning - Análise de dados MNIST
+  </a> <br>
+  </a>
+</a>
 - <a href="https://github.com/leedtsci/leedtsci/blob/main/PortfolioFundamentosIA.ipynb">
     Projeto Rede Neural Simples - Porta Lógica XOR
   </a> <br>
