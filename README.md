@@ -23,6 +23,26 @@ Tenho conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenh
 
 #### Aqui, alguns Conteúdos criados por mim:
 </a>
+</a>
+- <a href="https://github.com/leedtsci/leedtsci/blob/main/analise_bovinos.ipynb">
+    Análise dos dados do IBGE sobre o Efetivos de Rebanhos
+  </a> <br>
+  </a>
+</a>
+</a>
+- <a href="https://github.com/leedtsci/leedtsci/blob/main/Projeto_911.ipynb">
+    Análise dos dados ligações 911
+  </a> <br>
+  </a>
+  </a>
+</a>
+- <a href="https://github.com/leedtsci/leedtsci/blob/main/VisaoComputacional.ipynb">
+    Projeto de Visão Computacional
+  </a> <br>
+  </a>
+</a>
+</a>
+</a>
 - <a href="https://github.com/leedtsci/leedtsci/blob/main/Portfolio_MachineLearning_I.ipynb">
     Projeto Machine Learning - Análise de dados MNIST
   </a> <br>
