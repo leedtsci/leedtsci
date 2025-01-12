@@ -24,6 +24,13 @@ Tenho conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenh
 #### Aqui, alguns Conteúdos criados por mim:
 </a>
 </a>
+- <a href="https://github.com/leedtsci/leedtsci/blob/main/Automa%C3%A7%C3%A3oColetaDados.ipynb">
+    Algoritmo de Automatização de Coleta de Dados com Selenium Python
+  </a> <br>
+  </a>
+</a>
+</a>
+</a>
 - <a href="https://github.com/leedtsci/leedtsci/blob/main/analise_bovinos.ipynb">
     Análise dos dados do IBGE sobre o Efetivos de Rebanhos
   </a> <br>
