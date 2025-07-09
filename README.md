@@ -19,7 +19,7 @@ Seja muito bem-vindo ao meu perfil no GitHub.
 </a>
 </a>
 - <a href="https://github.com/leedtsci/leedtsci/blob/main/PortfolioRedesNeurais_DeepLearning.ipynb">
-    Algoritmo de Aprendizado de Máquina com Tensorflow Python
+    Algoritmo de Deep Learning (Aprendizado Profundo) com Tensorflow Python
   </a> <br>
   </a>
 </a>
