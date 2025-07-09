@@ -14,14 +14,15 @@ Seja muito bem-vindo ao meu perfil no GitHub.
           
   </div> 
 
-##
-
-### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/leandro-de-souza-reis-silva-0034b5265/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-
 #### Aqui, alguns Conteúdos criados por mim:
+</a>
+</a>
+</a>
+- <a href="https://github.com/leedtsci/leedtsci/blob/main/PortfolioRedesNeurais_DeepLearning.ipynb">
+    Algoritmo de Aprendizado de Máquina com Tensorflow Python
+  </a> <br>
+  </a>
+</a>
 </a>
 </a>
 - <a href="https://github.com/leedtsci/leedtsci/blob/main/Automa%C3%A7%C3%A3oColetaDados.ipynb">
