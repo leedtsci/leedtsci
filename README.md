@@ -2,7 +2,7 @@
 
 Seja muito bem-vindo ao meu perfil no GitHub.
 
-**Possuo formação no Curso Superior de Tecnologia de Ciência de Dados da Faculdade Pitágoras/Unopar**. Tenho conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenharia no ramo de mineração. Possuo experiência no setores automação de coleta de dados com linguagem Python, supervisão de vendas e logísitica. Curioso sobre Ciência e Análise de Dados e programação em linguagens Python, R e SQL.
+**Possuo formação no Curso Superior de Tecnologia de Ciência de Dados da Faculdade Pitágoras/Unopar**. Tenho conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenharia no ramo de mineração. Possuo experiência no setores automação de coleta de dados com linguagem Python, supervisão de vendas e logísitica. Curioso sobre Ciência e Análise de Dados e programação em linguagens Python, R e SQL. Estudante da língua Inglesa.
 
 - 🧑🏾‍💼 Trabalho com Planejamento de Gestão de Documentos de Engenharia
 - 🥋🎶🎸 Apaixonado por **Aikido**, **Música** e **Guitarra**
