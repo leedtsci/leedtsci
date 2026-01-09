@@ -18,6 +18,13 @@ Seja muito bem-vindo ao meu perfil no GitHub.
 </a>
 </a>
 </a>
+- <a href="https://github.com/leedtsci/SantanderBootcampDio/blob/main/ProjetoETL_BootcampSantander_DIO/notebooks/projeto_ETL.ipynb">
+    Projeto ETL BootcampSantander (DIO)
+  </a> <br>
+  </a>
+</a>
+</a>
+</a>
 - <a href="https://github.com/leedtsci/leedtsci/blob/main/PortfolioRedesNeurais_DeepLearning.ipynb">
     Algoritmo de Deep Learning (Aprendizado Profundo) com Tensorflow Python
   </a> <br>
@@ -66,4 +73,10 @@ Seja muito bem-vindo ao meu perfil no GitHub.
 </a>
 - <a href="https://trinket.io/python3/21b4f7ff25">
     Operações entre matrizes simples com numpy e sympy(nsimplify) Python
+  </a> <br>
+  </a>
+</a>
+</a>
+- <a href="https://github.com/leedtsci/SantanderBootcampDio/tree/main/ProjetoAnaliseDadosExcel">
+    Projeto Análise de Dados com Excel Copilot (DIO)
   </a> <br>
