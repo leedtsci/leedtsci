@@ -2,9 +2,17 @@
 
 Seja muito bem-vindo ao meu perfil no GitHub.
 
-**Possuo formação no Curso Superior de Tecnologia de Ciência de Dados da Faculdade Pitágoras/Unopar**. Tenho conhecimento como Normativo de Gestão Eletrônica de Documentos de Engenharia no ramo de mineração. Possuo experiência no setores automação de coleta de dados com linguagem Python, supervisão de vendas e logísitica. Curioso sobre Ciência e Análise de Dados e programação em linguagens Python, R e SQL. Estudante da língua Inglesa.
+**Possuo formação no Curso Superior de Tecnologia de Ciência de Dados da Faculdade Pitágoras/Unopar**. Profissional com experiência de 8 anos 
+na prestação de serviços  voltados para a gestão de documentos de engenharia (GED), handover de projetos, governança de dados, otimização e automação de 
+processos na empresa Vale S.A..  Com foco na evolução e utilização de inteligência artificial generativa para elevar a produtividade e apoiar decisões estratégicas. Possuo 12 anos de experiência complementar em  gestão de processos, vendas, logística e atendimento ao cliente, fortalecendo minha capacidade analítica, comunicação clara e atuação colaborativa em ambientes multidisciplinares. Busco  desenvolvimento  constante  para aprimorar habilidades na área de análise de dados, ciência de dados, inteligência artificial, automação e melhoria contínua de processos, agregando valor na entrega de resultados seguros, eficientes e orientados à inovação.
 
-- 🧑🏾‍💼 Trabalho com Planejamento de Gestão de Documentos de Engenharia
+🧑🏾‍💼 **Trabalho com Planejamento de Gestão de Documentos de Engenharia.**
+- Otimização do fluxo ETL (extração, transformação e carregamento)  de dados com Python, alcançando 86% de ganho em eficiência e significativa redução no tempo de processamento de informações.
+- Desenvolvimento de fluxos automatizados com Power Automate para melhoria de processos.
+- Criação de dashboards e relatórios analíticos em Power BI, aprimorando a visibilidade e a tomada de decisões baseada em dados (data-driven). 
+- Atuação no processo de handover de projetos para operação/manutenção em conjunto com equipe de controle inicial. Normativo com foco na aplicação das regras do Sistema de Padronização de Engenharia (Vale S.A.), cadastros de projetos e Solicitações de Serviços de Engenharia(SSE).
+- Elaboração de projetos de melhoria contínua usando a abordagem Kaizen promovendo eficiência, padronização e redução de retrabalho.
+ 
 - 🥋🎶🎸 Apaixonado por **Aikido**, **Música** e **Guitarra**
 - 🖥️ Com foco no aprendizado e desenvolvimento em:
 <div style="display: inline">
