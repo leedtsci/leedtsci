@@ -20,7 +20,7 @@ Com 8 anos de atuação na **Vale S.A.**, especializei-me na gestão de document
 
 🧑🏾‍💼 **Planejamento de Gestão de Documentos de Engenharia**
 
-*   **Otimização ETL:** Desenvolvimento de fluxos em **Python**, alcançando **86% de ganho em eficiência** no processamento de dados.
+*   **Otimização ETL:** Desenvolvimento de fluxos em **Python**, alcançando aproximadamente **80% de ganho em eficiência** no processamento de dados.
 *   **Automação:** Implementação de fluxos inteligentes com **Power Automate**.
 *   **Data-Driven:** Criação de dashboards e relatórios analíticos em **Power BI**.
 *   **Governança:** Especialista em normas do Sistema de Padronização de Engenharia (Vale S.A.) e processos de handover de projetos.
@@ -50,6 +50,7 @@ Com 8 anos de atuação na **Vale S.A.**, especializei-me na gestão de document
 
 Confira alguns dos conteúdos e soluções desenvolvidos por mim:
 
+- 💾 [Descrição do Projeto de Pipeline de Dados com foco em Produtividade para Análise de Dados](https://github.com/leedtsci/AutomacaoPipelineDadosGED/tree/main)
 - 🐍 [Projeto ETL Bootcamp Santander (DIO)](https://github.com/leedtsci/SantanderBootcampDio/blob/main/ProjetoETL_BootcampSantander_DIO/notebooks/projeto_ETL.ipynb)
 - 🧠 [Algoritmo de Deep Learning com Tensorflow Python](https://github.com/leedtsci/leedtsci/blob/main/PortfolioRedesNeurais_DeepLearning.ipynb)
 - 🤖 [Automatização de Coleta de Dados com Selenium Python](https://github.com/leedtsci/leedtsci/blob/main/Automa%C3%A7%C3%A3oColetaDados.ipynb)
